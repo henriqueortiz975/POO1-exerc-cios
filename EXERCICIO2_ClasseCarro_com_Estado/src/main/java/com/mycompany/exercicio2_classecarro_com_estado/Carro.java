@@ -23,9 +23,9 @@ public class Carro {
     }
     public void status(){
         if(ligado == true){
-            System.out.println("carro esta ligado");
+            System.out.println("Status: ligado");
         }else{
-            System.out.println("carro esta desligado");
+            System.out.println("Status: desligado");
 
         }
     }
