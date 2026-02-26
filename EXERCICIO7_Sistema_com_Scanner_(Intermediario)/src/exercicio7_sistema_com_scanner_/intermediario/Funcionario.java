@@ -9,7 +9,6 @@ public class Funcionario {
         percentual *= salario;
         salario += percentual;
         
-
     }
     
     public void mostrarDados(){
